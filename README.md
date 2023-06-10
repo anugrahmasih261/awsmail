@@ -3,7 +3,7 @@
 # if you do not want reset password facility then pls register @masih.com following by your mail address
 #### CLICK ON LIVE BUTTON TO ACCESS DEPLOYED LINK
 
-[LIVE AT AWS EC2 with nginx and gunicorn](http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com/login)
+[LIVE AT AWS EC2 with nginx & gunicorn & postgresql](http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com/login)
 
 ##Screenshot. 
 
