@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*(qp2r5upe(j$5z2-d#6bey8a!rggd47*kayi97-284=l9!9&(
 #DEBUG = True
 DEBUG = True  #this is done to deploy on heroku
 
-ALLOWED_HOSTS = ['127.0.0.1']  # here u can put deployed link
+ALLOWED_HOSTS = ['*']  # here u can put deployed link
 
 
 # Application definition
