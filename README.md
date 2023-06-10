@@ -1,8 +1,9 @@
 # awsmail
 ### This is my email service you can register with any existing email so that you get password reset facility 
 # if you do not want reset password facility then pls register @masih.com following by your mail address
+#### CLICK ON LIVE BUTTON TO ACCESS DEPLOYED LINK
 
-[LIVE AT AWS](http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com/login)
+[LIVE AT AWS EC2 with nginx and gunicorn](http://ec2-13-48-46-51.eu-north-1.compute.amazonaws.com/login)
 
 ##Screenshot. 
 
